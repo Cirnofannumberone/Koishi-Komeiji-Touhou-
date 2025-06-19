@@ -14,10 +14,10 @@
 		"defeated": "My presence fades into the depths... yet the subconscious never truly dies.",
 		"introduction": "I am Koishi Komeiji, the hidden heart of the subconscious. What you see is never all there is.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "It’s quiet here… I like that. Who are you?",
+		"neutralLetsHearIt": ["Hmm? I’m listening… even if I look away."],
+		"neutralNo": ["No… but don’t take it personally. I don’t always understand myself either."],
+		"neutralYes": ["Yes… for reasons I can’t explain, but feel right."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
