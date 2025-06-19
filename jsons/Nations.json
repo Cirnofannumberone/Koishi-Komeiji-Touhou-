@@ -24,8 +24,8 @@
 		"hateNo": ["No. And don’t ask again. I’ve already forgotten your reason."],
 		"hateYes": ["Yes… but only because it amuses something deep inside me."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Peace returns, but shadows of the past linger quietly.",
+		"tradeRequest": "What do you seek to exchange in this silent dance?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
