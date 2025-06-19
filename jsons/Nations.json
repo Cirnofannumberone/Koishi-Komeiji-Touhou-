@@ -19,10 +19,10 @@
 		"neutralNo": ["No… but don’t take it personally. I don’t always understand myself either."],
 		"neutralYes": ["Yes… for reasons I can’t explain, but feel right."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Oh… it’s you again. I was hoping to forget you.",
+		"hateLetsHearIt": ["If I must listen… make it quick. My thoughts wander."],
+		"hateNo": ["No. And don’t ask again. I’ve already forgotten your reason."],
+		"hateYes": ["Yes… but only because it amuses something deep inside me."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
