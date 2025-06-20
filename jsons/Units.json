@@ -12,27 +12,17 @@
     "name": "Mindpiercer",
     "replaces": "Crossbowman",
     "uniqueTo": "Subconscious Bloom",
-    "combatStrength": 16,
+    "strength": 16,
     "rangedStrength": 20,
     "range": 2,
-    "promotionClasses": ["Archer"],
-    "promotions": [
-      "Accuracy1",
-      "Drill1",
-      "Cover1"
-    ]
+    "promotions": ["Accuracy1","Drill1","Cover1"]
   },
   {
     "name": "Ego Eraser",
     "replaces": "Infantry",
     "uniqueTo": "Subconscious Bloom",
-    "combatStrength": 90,
+    "strength": 90,
     "movement": 2,
-    "promotionClasses": ["Gun"],
-    "promotions": [
-      "March",
-      "Shock3",
-      "Cover2"
-    ]
+    "promotions": ["March","Shock3","Cover2"]
   }
 ]
