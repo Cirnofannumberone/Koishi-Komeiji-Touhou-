@@ -16,7 +16,7 @@
     "name": "Mindpiercer",
     "replaces": "Crossbowman",
     "uniqueTo": "Subconscious Bloom",
-    "unitType": "Archer",
+    "unitType": "Archery",
     "movement": 2,
     "strength": 16,
     "rangedStrength": 20,
