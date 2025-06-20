@@ -4,14 +4,9 @@
     "replaces": "Scout",
     "uniqueTo": "Subconscious Bloom",
     "movement": 3,
-    "combatStrength": 6,
-    "visionRange": 3,
-    "promotionClasses": ["Recon"],
-    "promotions": [
-      "IgnoreTerrainCost",
-      "Woodsman",
-      "Survivalism1"
-    ]
+    "strength": 6,
+    "cost": 20,
+    "promotions": ["IgnoreTerrainCost","Woodsman","Survivalism1"]
   },
   {
     "name": "Mindpiercer",
