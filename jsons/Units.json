@@ -6,10 +6,16 @@
     "unitType": "Scout",
     "movement": 3,
     "strength": 6,
+    "cost": 25,
+    "obsoleteTech": "Scientific Theory",
     "promotions": [
       "Ignore terrain cost",
       "Woodsman",
       "Survivalism I"
+    ],
+    "uniques": [
+      "May upgrade to [Archer] through ruins-like effects",
+      "Never appears as a Barbarian unit"
     ]
   },
   {
@@ -20,7 +26,10 @@
     "movement": 2,
     "strength": 16,
     "rangedStrength": 20,
-    "range": 2,
+    "cost": 120,
+    "requiredTech": "Machinery",
+    "obsoleteTech": "Industrialization",
+    "upgradesTo": "Gatling Gun",
     "promotions": [
       "Accuracy I",
       "Drill I",
@@ -34,6 +43,10 @@
     "unitType": "Gunpowder",
     "movement": 2,
     "strength": 90,
+    "cost": 375,
+    "requiredTech": "Plastics",
+    "obsoleteTech": "Mobile Tactics",
+    "upgradesTo": "Mechanized Infantry",
     "promotions": [
       "March",
       "Shock III",
