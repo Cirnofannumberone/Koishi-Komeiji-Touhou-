@@ -10,7 +10,7 @@
     "requiredTech": "Pottery",
     "uniques": [
       "Only available <when religion is enabled>",
-      "+1 faith from every forest tile worked by this city"
+      "[+1 Faith] from every [Forest]"
     ]
   },
   {
@@ -26,7 +26,7 @@
     "uniques": [
       "Only available <when religion is enabled>",
       "Destroyed when the city is captured",
-      "+1 culture per 2 citizens in this city"
+      "[+1 Culture] per [2] population [in all cities]"
     ]
   },
   {
