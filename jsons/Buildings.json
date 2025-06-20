@@ -2,7 +2,7 @@
   {
     "name": "Subterranean Shrine",
     "replaces": "Shrine",
-    "uniqueTo": ["Subconscious Bloom"],
+    "uniqueTo": "Subconscious Bloom",
     "faith": 2,
     "culture": 1,
     "maintenance": 0
@@ -10,7 +10,7 @@
   {
     "name": "Palace of the Earth Spirits",
     "replaces": "Temple",
-    "uniqueTo": ["Subconscious Bloom"],
+    "uniqueTo": "Subconscious Bloom",
     "faith": 4,
     "culture": 2,
     "happiness": 1,
@@ -19,7 +19,7 @@
   {
     "name": "Blazing Hell Reactor",
     "replaces": "Factory",
-    "uniqueTo": ["Subconscious Bloom"],
+    "uniqueTo": "Subconscious Bloom",
     "productionPercent": 15,
     "science": 2,
     "maintenance": 3
