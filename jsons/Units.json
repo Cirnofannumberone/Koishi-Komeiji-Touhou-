@@ -16,7 +16,7 @@
     "name": "Mindpiercer",
     "replaces": "Crossbowman",
     "uniqueTo": "Subconscious Bloom",
-    "unitType": "Crossbowman",
+    "unitType": "Archer",
     "movement": 2,
     "strength": 16,
     "rangedStrength": 20,
@@ -31,7 +31,7 @@
     "name": "Ego Eraser",
     "replaces": "Infantry",
     "uniqueTo": "Subconscious Bloom",
-    "unitType": "Infantry",
+    "unitType": "Gunpowder",
     "movement": 2,
     "strength": 90,
     "promotions": [
