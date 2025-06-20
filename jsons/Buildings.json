@@ -5,7 +5,9 @@
     "uniqueTo": "Subconscious Bloom",
     "faith": 2,
     "culture": 1,
-    "maintenance": 0
+    "maintenance": 0,
+    "requiredTech": "Mysticism",
+    "cost": 40
   },
   {
     "name": "Palace of the Earth Spirits",
@@ -14,7 +16,9 @@
     "faith": 4,
     "culture": 2,
     "happiness": 1,
-    "maintenance": 2
+    "maintenance": 2,
+    "requiredTech": "Philosophy",
+    "cost": 120
   },
   {
     "name": "Blazing Hell Reactor",
@@ -22,6 +26,8 @@
     "uniqueTo": "Subconscious Bloom",
     "productionPercent": 15,
     "science": 2,
-    "maintenance": 3
+    "maintenance": 3,
+    "requiredTech": "Industrialization",
+    "cost": 225
   }
 ]
