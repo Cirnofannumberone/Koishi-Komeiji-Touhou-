@@ -2,7 +2,7 @@
   {
     "name": "Whispering Shade",
     "replaces": "Scout",
-    "uniqueTo": "Subconscious Bloom",
+    "uniqueTo": ["Subconscious Bloom"],
     "movement": 3,
     "combatStrength": 6,
     "visionRange": 3,
@@ -16,7 +16,7 @@
   {
     "name": "Mindpiercer",
     "replaces": "Crossbowman",
-    "uniqueTo": "Subconscious Bloom",
+    "uniqueTo": ["Subconscious Bloom"],
     "combatStrength": 16,
     "rangedStrength": 20,
     "range": 2,
@@ -30,7 +30,7 @@
   {
     "name": "Ego Eraser",
     "replaces": "Infantry",
-    "uniqueTo": "Subconscious Bloom",
+    "uniqueTo": ["Subconscious Bloom"],
     "combatStrength": 90,
     "movement": 2,
     "promotionClasses": ["Gun"],
