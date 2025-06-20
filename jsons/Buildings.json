@@ -3,31 +3,45 @@
     "name": "Subterranean Shrine",
     "replaces": "Shrine",
     "uniqueTo": "Subconscious Bloom",
-    "cost": 40,
-    "maintenance": 0,
     "faith": 2,
     "culture": 1,
-    "prereqTech": "TECH_MYSTICISM"
+    "cost": 45,
+    "maintenance": 1,
+    "requiredTech": "Pottery",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "+1 faith from every forest tile worked by this city"
+    ]
   },
   {
     "name": "Palace of the Earth Spirits",
     "replaces": "Temple",
     "uniqueTo": "Subconscious Bloom",
-    "cost": 120,
-    "maintenance": 2,
-    "faith": 4,
+    "faith": 3,
     "culture": 2,
-    "happiness": 1,
-    "prereqTech": "TECH_PHILOSOPHY"
+    "requiredBuilding": "Shrine",
+    "maintenance": 2,
+    "hurryCostModifier": 25,
+    "requiredTech": "Philosophy",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Destroyed when the city is captured",
+      "+1 culture per 2 citizens in this city"
+    ]
   },
   {
     "name": "Blazing Hell Reactor",
     "replaces": "Factory",
     "uniqueTo": "Subconscious Bloom",
-    "cost": 225,
-    "maintenance": 3,
-    "productionPercent": 15,
+    "cost": 380,
+    "production": 5,
+    "percentStatBonus": { "production": 12 },
+    "specialistSlots": { "Engineer": 2 },
     "science": 2,
-    "prereqTech": "TECH_INDUSTRIALIZATION"
+    "requiredBuilding": "Workshop",
+    "maintenance": 4,
+    "hurryCostModifier": 0,
+    "requiredResource": "Coal",
+    "requiredTech": "Industrialization"
   }
 ]
