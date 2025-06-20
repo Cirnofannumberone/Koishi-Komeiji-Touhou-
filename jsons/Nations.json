@@ -18,9 +18,9 @@
   "outerColor": [0, 128, 0],
   "innerColor": [255, 182, 193],
   "uniques": [
-    "+1 culture for every forest tile",
-    "Specialists in this city provide +1 faith",
-    "+10% science in all cities"
+            "[+1 Culture] from every [Forest]",
+	    "[+10]% [Science] from every [in all cities]",
+	    "[+1 Faith] from every specialist [in all cities]"
   ],
   "cities": [
     "Koishia","Subconcia","Espiralia","Somnora","Veloria","Lunaria","Noctalis","Caleidia","Miranthia",
