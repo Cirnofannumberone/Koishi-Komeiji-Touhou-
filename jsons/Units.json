@@ -3,26 +3,41 @@
     "name": "Whispering Shade",
     "replaces": "Scout",
     "uniqueTo": "Subconscious Bloom",
+    "unitType": "Scout",
     "movement": 3,
     "strength": 6,
-    "cost": 20,
-    "promotions": ["IgnoreTerrainCost","Woodsman","Survivalism1"]
+    "promotions": [
+      "Ignore terrain cost",
+      "Woodsman",
+      "Survivalism I"
+    ]
   },
   {
     "name": "Mindpiercer",
     "replaces": "Crossbowman",
     "uniqueTo": "Subconscious Bloom",
+    "unitType": "Crossbowman",
+    "movement": 2,
     "strength": 16,
     "rangedStrength": 20,
     "range": 2,
-    "promotions": ["Accuracy1","Drill1","Cover1"]
+    "promotions": [
+      "Accuracy I",
+      "Drill I",
+      "Cover I"
+    ]
   },
   {
     "name": "Ego Eraser",
     "replaces": "Infantry",
     "uniqueTo": "Subconscious Bloom",
-    "strength": 90,
+    "unitType": "Infantry",
     "movement": 2,
-    "promotions": ["March","Shock3","Cover2"]
+    "strength": 90,
+    "promotions": [
+      "March",
+      "Shock III",
+      "Cover II"
+    ]
   }
 ]
