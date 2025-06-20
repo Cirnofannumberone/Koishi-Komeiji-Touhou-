@@ -2,7 +2,7 @@
   {
     "name": "Whispering Shade",
     "replaces": "Scout",
-    "uniqueTo": "Subconscious Bloom",
+    "uniqueTo": "Komeji Chireiden",
     "unitType": "Scout",
     "movement": 3,
     "strength": 6,
@@ -21,7 +21,7 @@
   {
     "name": "Mindpiercer",
     "replaces": "Crossbowman",
-    "uniqueTo": "Subconscious Bloom",
+    "uniqueTo": "Komeji Chireiden",
     "unitType": "Archery",
     "movement": 2,
     "strength": 16,
@@ -39,7 +39,7 @@
   {
     "name": "Ego Eraser",
     "replaces": "Infantry",
-    "uniqueTo": "Subconscious Bloom",
+    "uniqueTo": "Komeji Chireiden",
     "unitType": "Gunpowder",
     "movement": 2,
     "strength": 90,
