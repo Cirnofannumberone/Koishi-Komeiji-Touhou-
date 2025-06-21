@@ -1,11 +1,6 @@
 [	
 	{
 		"name": "[Third Eye]",
-		"uniques": ["Third Eye", "[+2] Sight"]
-	},
-	{
-	        "name": "Bloom",
-		"uniques": ["Bloom", "[+25]% Strength <when fighting in [Forest] tiles>","[+25]% <Strength when fighting in [Jungle] tiles>"]
+		"uniques": ["Third Eye","[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
 	}
-	
 ]
