@@ -8,6 +8,6 @@
     "strength": 6,
     "cost": 20,
     "obsoleteTech": "Scientific Theory",
-    "promotions": ["Third Eye","Bloom","Ignore terrain cost"]
+    "promotions": ["Third Eye","Ignore terrain cost"]
   }
 ]
