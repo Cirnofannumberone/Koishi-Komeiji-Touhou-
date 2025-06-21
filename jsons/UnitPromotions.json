@@ -1,6 +1,10 @@
-[	
-	{
-		"name": "[Third Eye]",
-		"uniques": ["Third Eye","[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
-	}
+
+[
+  {
+    "name": "[Third Eye]",
+    "uniques": [
+      "[Third Eye]",
+      "[+20]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
+    ]
+  }
 ]
