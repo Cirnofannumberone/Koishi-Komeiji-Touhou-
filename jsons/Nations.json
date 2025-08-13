@@ -17,8 +17,7 @@
   "tradeRequest": "What do you seek to exchange in this silent dance?",
   "outerColor": [0, 128, 0],
   "innerColor": [255, 182, 193],
-  "uniques": ["[+3 Science] [in all cities]","[+3 Culture] [in all cities]","[+5 Faith] [in all cities]",
-	         "[+25]% [Production] [in all cities]","[+100 Gold] from each Trade Route","[+100]% Strength <for [All] units> <when fighting in [Forest] tiles>",
+  "uniques": ["[+50 Faith] [in all cities]","[+100]% [Faith] [in all cities]","[+1 Hapiness] [in all cities]","[+100 Gold] from each Trade Route","[+100]% Strength <for [All] units> <when fighting in [Forest] tiles>",
 	         "[+100]% Strength <for [All] units> <when fighting in [Jungle] tiles>"],
   "cities": [
     "Koishia","Subconcia","Espiralia","Somnora","Veloria","Lunaria","Noctalis","Caleidia","Miranthia",
