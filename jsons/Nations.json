@@ -19,7 +19,7 @@
   "innerColor": [255, 182, 193],
   "uniques": ["[+3 Science] [in all cities]","[+3 Culture] [in all cities]","[+5 Faith] [in all cities]",
 	         "[+25]% [Production] [in all cities]","[+100]% Strength <for [All] units> <when fighting in [Forest] tiles>",
-	         "[+100]% Strength <for [All] units> <when fighting in [Jungle] tiles>"],
+	         "[+100]% Strength <for [All] units> <when fighting in [Jungle] tiles>","[+100]% [Gold] from each Trade Route"],
   "cities": [
     "Koishia","Subconcia","Espiralia","Somnora","Veloria","Lunaria","Noctalis","Caleidia","Miranthia",
     "Velisora","Nevasha","Dreymira","Opheryn","Ysilune","Thesvalen","Caelyra","Ziraphis","Nocthalis","Virenai",
