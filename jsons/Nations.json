@@ -17,7 +17,7 @@
   "tradeRequest": "What do you seek to exchange in this silent dance?",
   "outerColor": [0, 128, 0],
   "innerColor": [255, 182, 193],
-  "uniques": ["[+50] [Gold] [in all cities]","[+50]% [Gold] [in all cities]"
+  "uniques": ["[+50 Gold] [in all cities]","[+50]% [Gold] [in all cities]"
   ],
   "cities": [
     "Koishia","Subconcia","Espiralia","Somnora","Veloria","Lunaria","Noctalis","Caleidia","Miranthia",
