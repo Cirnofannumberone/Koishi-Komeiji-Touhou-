@@ -19,7 +19,8 @@
   "innerColor": [255, 182, 193],
   "uniques": ["[+50 Faith] [in all cities]","[+100]% [Faith] [in all cities]","[+100]% [growth] [in all cities]",
 	  "[+100]% Strength <for [All] units> <when fighting in [Forest] tiles>",
-      "[+100]% Strength <for [All] units> <when fighting in [Jungle] tiles>"],
+      "[+100]% Strength <for [All] units> <when fighting in [Jungle] tiles>",
+	   "May buy [{Military} {non-air}] units with [Faith] for [1] times their normal Production cost"],
   "cities": [
     "Koishia","Subconcia","Espiralia","Somnora","Veloria","Lunaria","Noctalis","Caleidia","Miranthia",
     "Velisora","Nevasha","Dreymira","Opheryn","Ysilune","Thesvalen","Caelyra","Ziraphis","Nocthalis","Virenai",
