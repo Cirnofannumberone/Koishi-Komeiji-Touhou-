@@ -1,13 +1,1 @@
-[
-  {
-    "name": "Whispering Shade",
-    "replaces": "Scout",
-    "uniqueTo": "Komeji Chireiden",
-    "unitType": "Scout",
-    "movement": 3,
-    "strength": 6,
-    "cost": 20,
-    "obsoleteTech": "Scientific Theory",
-    "promotions": ["Ignore terrain cost"]
-  }
-]
+
