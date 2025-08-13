@@ -18,9 +18,10 @@
   "outerColor": [0, 128, 0],
   "innerColor": [255, 182, 193],
   "uniques": [
-	    "[+50]% [Science] from every [in all cities]",
-	    "[+50]% [Faith] from every [in all cities]",
-	    "[+20]% [Gold] from every [in all cities]"
+	    "[+25] [Science] [in all cities]",
+	    "[+25] [Faith] [in all cities]",
+	    "[+25]% [Science] [in all cities]",
+	    "[+25]% [Fait] [in all cities]",
   ],
   "cities": [
     "Koishia","Subconcia","Espiralia","Somnora","Veloria","Lunaria","Noctalis","Caleidia","Miranthia",
